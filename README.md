@@ -1,41 +1,72 @@
-### Hi, I'm Bit-XBF ⚡
+# Bit-XBF ⚡
 
-**System Design Engineer** — from hardware to system architecture.
-
-I build embedded sensor systems for industrial equipment, and I design knowledge systems for how engineers think and work.
+> Embedded System Engineer — building a Personal OS for continuous engineering growth.
 
 ---
 
-#### Focus
+## About
 
-| Tier | Domains |
+I design sensor modules for industrial equipment and MEWP (Mobile Elevating Work Platforms). My work spans PCB-level hardware, embedded firmware, and EMC compliance — evolving from single-module design toward system-level integration.
+
+---
+
+## Engineering Focus
+
+- **Embedded System** — STM32, ARM Cortex-M, RTOS
+- **Sensor Systems** — Inclination, magnetic encoders, dynamic measurement
+- **Industrial Communication** — CAN Bus, CANopen, LoRa
+- **EMC Design** — Compliance, filtering, transient protection
+- **System Architecture** — From module to system solution
+
+---
+
+## Personal OS
+
+A structured system that turns engineering practice into reusable capability:
+
+```
+Physical Layer    →  Practice, projects, experiments
+Knowledge Layer   →  Notes, cases, methods, templates
+Governance Layer  →  Rules, SOPs, standards, baselines
+```
+
+The output is not just documentation — it's an **engineering capability system** that improves with every project.
+
+---
+
+## Projects
+
+| Repository | Purpose |
 |---|---|
-| **Primary** | Embedded System · Sensor Technology · Industrial IoT |
-| **Secondary** | STM32 · CAN Bus · LoRa · EMC Design · Power Management |
-| **Growth** | System Architecture · Knowledge Engineering · AI-Augmented Design |
+| **[Personal-OS](https://github.com/Bit-XBF/Personal-OS)** | Knowledge system versioning & public methodology |
+| **[Engineering-Knowledge-Base](https://github.com/Bit-XBF/Engineering-Knowledge-Base)** | Domain knowledge: embedded, sensor, communication, power, EMC |
+| **[Engineering-Case-Library](https://github.com/Bit-XBF/Engineering-Case-Library)** | De-identified engineering cases with root cause analysis |
+| **[Engineering-Templates](https://github.com/Bit-XBF/Engineering-Templates)** | Reusable design templates & checklists |
 
 ---
 
-#### Knowledge System
+## Engineering Journey
 
-I maintain a structured engineering knowledge base built on a custom **Knowledge Governance Framework (KGF)** — a system that turns raw notes and project experience into reusable design principles.
-
-- **Engineering-Knowledge-Base** — Embedded, sensor, communication, EMC & power domain knowledge
-- **Engineering-Case-Library** — De-identified engineering cases with root cause analysis
-- **Engineering-Methodology** — Design principles distilled from real-world hardware projects *(coming soon)*
-- **Engineering-Templates** — Reusable engineering templates & checklists
-
----
-
-#### Currently Learning
-
-- ARM Cortex-M bare-metal & RTOS deep dive
-- System engineering design patterns
-- Knowledge graph & RAG for engineering knowledge retrieval
+```
+2026  Building embedded software & system design foundation
+  ↓
+2027  Developing system-level design capability
+  ↓
+2028  Practicing system architecture
+```
 
 ---
 
-#### Connect
+## Currently Exploring
+
+- ARM Cortex-M RTOS patterns & bare-metal optimization
+- Knowledge graphs & RAG for engineering knowledge retrieval
+- AI-augmented hardware design workflows
+- Functional safety standards (ISO 13849, IEC 61508)
+
+---
+
+## Connect
 
 - 📫 `x.byfar` on most platforms
-- 🌐 Personal site coming soon
+- 🌐 `Bit-XBF` on GitHub & Gitee
