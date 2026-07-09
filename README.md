@@ -1,10 +1,6 @@
-# Bit-XBF ⚡
+# Baifa Xiao ⚡
 
-> Embedded System Engineer — building a Personal OS for continuous engineering growth.
-
----
-
-## About
+> **Embedded System Engineer → System Architect** — from hardware to systems thinking.
 
 I design sensor modules for industrial equipment and MEWP (Mobile Elevating Work Platforms). My work spans PCB-level hardware, embedded firmware, and EMC compliance — evolving from single-module design toward system-level integration.
 
@@ -12,17 +8,17 @@ I design sensor modules for industrial equipment and MEWP (Mobile Elevating Work
 
 ## Engineering Focus
 
-- **Embedded System** — STM32, ARM Cortex-M, RTOS
-- **Sensor Systems** — Inclination, magnetic encoders, dynamic measurement
-- **Industrial Communication** — CAN Bus, CANopen, LoRa
-- **EMC Design** — Compliance, filtering, transient protection
-- **System Architecture** — From module to system solution
+| Tier | Domains |
+|---|---|
+| **Primary** | Embedded System · Sensor Technology · Industrial IoT |
+| **Secondary** | STM32 · CAN Bus · LoRa · EMC Design · Power Management |
+| **Growth** | System Architecture · Knowledge Engineering · AI-Augmented Design |
 
 ---
 
 ## Personal OS
 
-A structured system that turns engineering practice into reusable capability:
+A structured system that turns engineering practice into reusable capability, built on a custom **Knowledge Governance Framework (KGF)**:
 
 ```
 Physical Layer    →  Practice, projects, experiments
@@ -49,19 +45,23 @@ The output is not just documentation — it's an **engineering capability system
 
 ```
 2026  Building embedded software & system design foundation
+  ↓   (Software Designer certification)
   ↓
 2027  Developing system-level design capability
+  ↓   (System Analyst certification)
   ↓
 2028  Practicing system architecture
+  ↓   (System Architect certification)
 ```
 
 ---
 
 ## Currently Exploring
 
+- Software Architecture & System Design patterns
 - ARM Cortex-M RTOS patterns & bare-metal optimization
+- Technical English for international collaboration
 - Knowledge graphs & RAG for engineering knowledge retrieval
-- AI-augmented hardware design workflows
 - Functional safety standards (ISO 13849, IEC 61508)
 
 ---
